@@ -26,11 +26,6 @@ A real-time system monitoring desktop app built with Python, Tkinter, and Matplo
 
 ---
 
-## 🖼️ Screenshots
-
-> _You can add screenshots here after running the app!_
-
----
 
 ## 🔧 Installation
 
